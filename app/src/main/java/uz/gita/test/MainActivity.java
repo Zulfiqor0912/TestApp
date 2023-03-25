@@ -74,6 +74,12 @@ public class MainActivity extends AppCompatActivity {
         dialog.setCancelable(false);
         dialog.show();
 
+        Dialog dialog = new Dialog(this);
+        dialog.setContentView(R.layout.activity_about);
+        dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
+        dialog.setCancelable(false);
+        dialog.show();
+
         AppCompatButton btnBack = dialog.findViewById(R.id.btnBack);
 
         btnBack.setOnClickListener(view1 -> {
