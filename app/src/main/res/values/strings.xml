@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Majburiy fanlardan testlar</string>
+    <string name="information">Bu dastur GITA da tahsil olayotgan Rustamov Zulfiqor tomonidan kursning 7 - darsida uyga vazifa sifatida ishlab chiqarilgan. Xato va kamchiliklar bo\'lsa izohlarda o\'z fikringizni qoldiring</string>
+    <string name="skip">skip</string>
+    <string name="ma_lumot">Ma\'lumot</string>
+    <string name="chiqish">Chiqish</string>
+    <string name="matematika">Matematika</string>
+    <string name="tarix">Tarix</string>
+    <string name="ona_tili">Ona tili</string>
+    <string name="tilhaqida">Til-shuncha sharaf bilan nutqning qurolidir.\nAgar nutq noma\'qbul bo\'lib chiqsa-tilning ofatidir</string>
+    <string name="tarix_haqida">Tarix oxir-oqibat vujudga keladigan haqiqatdir</string>
+    <string name="PP">https://www.freeprivacypolicy.com/live/103a4a4d-0889-45cf-8858-a46677c76a9d</string>
+
+    <style name="lilit">
+        <item name="fontFamily">@raw/lilit</item>
+    </style>
+
+    <style name="AppTheme">
+
+    </style>
+</resources>
